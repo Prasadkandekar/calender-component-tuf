@@ -2,6 +2,8 @@
 
 A wall-mounted calendar built with Next.js, React 19, and TypeScript. Features a realistic 3D page-flip animation, per-date notes, monthly goals, and date range selection — all persisted in the browser with no backend required.
 
+![Wall Calendar Preview](./public/calender-header.png)
+
 ---
 
 ## Links
